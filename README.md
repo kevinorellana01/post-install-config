@@ -3,7 +3,12 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+
+This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.
+
+Admin/Analyst Login Page: [Admin Login](http://localhost/osTicket/scp/login.php)
+
+End Users osTicket URL: [End Users Ticketing Page](http://localhost/osTicket)
 
 <h2>Environments and Technologies Used</h2>
 
